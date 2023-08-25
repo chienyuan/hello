@@ -9,4 +9,5 @@ func main(){
   fmt.Println("Hello from main2")
   fmt.Println("Hello from main3")
   fmt.Println("Hello from main4")
+  fmt.Println("Hello from main5")
 }
